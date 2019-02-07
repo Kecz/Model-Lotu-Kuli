@@ -1,6 +1,6 @@
 # Model-Lotu-Kuli
 
-Projekt ten ma na celu modelowanie i wizualizację lotu wystrzelonej kuli w czasie.
+Projekt ten ma na celu modelowanie i wizualizację lotu wystrzelonej kuli w czasie.  
 W pliku 'Sprawozdanie.odt' znajduje się bardziej szczegółowy opis projektu oraz część teoretyczna z nim związana.
 
 Wykorzystywane środowisko: Windows Forms
