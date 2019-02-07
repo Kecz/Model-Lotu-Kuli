@@ -11,3 +11,5 @@ Użytkownik może dostosować takie parametry jak:
 - Kąt wystrzału  
 
 Projekt powstał we współpracy z Piotr Winkler - https://github.com/piotrwinkler
+
+Data wykonania: maj 2018
