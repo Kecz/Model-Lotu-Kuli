@@ -10,4 +10,4 @@ Użytkownik może dostosować takie parametry jak:
 - Opór powietrza  
 - Kąt wystrzału  
 
-Projekt został stworzony we współpracy z Piotr Winkler - https://github.com/piotrwinkler
+Projekt powstał we współpracy z Piotr Winkler - https://github.com/piotrwinkler
