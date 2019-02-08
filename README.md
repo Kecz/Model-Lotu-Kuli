@@ -3,9 +3,9 @@
 Projekt ten ma na celu modelowanie i wizualizację lotu wystrzelonej kuli w czasie z użyciem całkowania numerycznego.  
 W pliku 'Sprawozdanie.odt' znajduje się bardziej szczegółowy opis projektu oraz część teoretyczna z nim związana.
 
-## Wykorzystywane środowisko: Windows Forms
+### Wykorzystywane środowisko: Windows Forms
 
-## Użytkownik może dostosować takie parametry jak:  
+### Użytkownik może dostosować takie parametry jak:  
 - Prędkość początkowa  
 - Masa kuli  
 - Opór powietrza  
